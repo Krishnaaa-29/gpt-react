@@ -10,7 +10,7 @@ const Menu = () => {
     <p><a href='#wgpt3'>What is GPT?</a></p>
     <p><a href='#possibility'></a>Open AI</p>
     <p><a href='#features'>Case Studies</a></p>
-    <p><a href='#blog'></a>Library</p>
+    <p><a href='#blog'></a>Blogs</p>
     </>
   )
 }
